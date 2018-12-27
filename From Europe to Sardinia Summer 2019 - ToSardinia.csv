@@ -1,0 +1,45 @@
+Country,From,To,By,Company,TripMax/Day,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,Additional Information
+France,Tolone,Porto Torres,Ship,Corsica Ferries,3,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,
+France,Marsiglia,Porto Torres,Ship,Corsica linea/La Méridionale,1,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+France,Paris Orly,Cagliari,Plane,easyJet,1,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,
+France,Nizza,Olbia,Plane,easyJet,1,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,
+France,Lione,Olbia,Plane,easyJet,1,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,
+France,Tolosa,Olbia,Plane,easyJet,1,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,
+Germany,Berlin Tegel,Cagliari,Plane,easyJet,1,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,
+Germany,Berlin Schoenefeld,Cagliari,Plane,easyJet,1,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,
+Germany,Berlin Tegel,Olbia,Plane,easyJet,1,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,
+Germany,Berlin Schoenefeld,Olbia,Plane,easyJet,1,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,
+Germany,Berling Tegel,Alghero,Plane,easyJet,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+Germany,Düsseldorf,Olbia,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Munich,Olbia,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Stuttgart,Olbia,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Cologne-Bonn,Cagliari,Plane,Eurowings,1,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,
+Germany,Berlin Tegel,Cagliari,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Hambourg,Cagliari,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Munich,Cagliari,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Nuremberg,Olbia,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Leipzig/Halle,Olbia,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Hambourg,Olbia,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Hanovre,Olbia,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Brema,Olbia,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Cologne-Bonn,Olbia,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Berlin Tegel,Olbia,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Dortmund,Olbia,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Dresde,Olbia,Plane,Eurowings,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Spain,Barcellona,Porto Torres,Ship,Grimaldi,1,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,
+Germany,Munich,Olbia,Plane,Lufthansa,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+Germany,Francoforte,Olbia,Plane,Lufthansa,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Todo
+France,Paris Beauvais,Cagliari,Plane,Ryanair,1,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,
+Germany,Düsseldorf,Cagliari,Plane,Ryanair,1,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,
+Germany,Francoforte (Hann),Cagliari,Plane,Ryanair,1,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+Germany,Karlruhe (Baden-Baden),Cagliari,Plane,Ryanair,1,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+France,Nantes,Cagliari,Plane,Volotea,1,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,
+France,Bordeaux,Cagliari,Plane,Volotea,1,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,
+France,Marsiglia,Cagliari,Plane,Volotea,1,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,
+France,Lione,Cagliari,Plane,Volotea,1,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,
+France,Strasburgo,Cagliari,Plane,Volotea,1,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,
+France,Tolosa,Cagliari,Plane,Volotea,1,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,
+France,Bordeaux,Olbia,Plane,Volotea,1,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+France,Strasburgo,Olbia,Plane,Volotea,1,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+France,Nantes,Olbia,Plane,Volotea,1,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+Germany,Hanover,Cagliari,Plane,Vueling,1,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,
